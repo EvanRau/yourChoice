@@ -1,0 +1,30 @@
+.navbar-brand img {
+    max-height: 80px; /* Adjust the value as needed */
+}
+
+.navbar-custom {
+    background-color: #2596be; /* Change to cyan */
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-size: 20px; !important
+}
+
+.dropdown-menu {
+    background-color: #333333; /* Grey background */
+}
+.dropdown-menu a.dropdown-item {
+    color: white !important; /* White text */
+}
+
+.background-image {
+    background-image: url('westside_main.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
